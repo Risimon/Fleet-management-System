@@ -59,14 +59,11 @@ ros2 launch fleet_management client_launch --fleet-size 5 # launching client wit
 
 <img alt="Screenshot from 2023-10-24 00-17-15" src="https://github.com/Risimon/Fleet-management-System/assets/44129331/3efaa0fe-0bcd-474b-96dc-0106c7db609b">
 
-<img width="682" alt="![Screenshot from 2023-10-24 00-17-47](https://github.com/Risimon/Fleet-management-System/assets/44129331/3efaa0fe-0bcd-474b-96dc-0106c7db609b)
-">
+<img alt="Screenshot from 2023-10-24 00-17-15" src="https://github.com/Risimon/Fleet-management-System/assets/44129331/3efaa0fe-0bcd-474b-96dc-0106c7db609b">
 
-<img width="682" alt="![Screenshot from 2023-10-24 00-18-04](https://github.com/Risimon/Fleet-management-System/assets/44129331/626a2d48-4372-4d7d-88dc-b4efb6d3d745)
-">
+<img alt="Screenshot from 2023-10-24 00-18-04" src="https://github.com/Risimon/Fleet-management-System/assets/44129331/626a2d48-4372-4d7d-88dc-b4efb6d3d745">
 
-<img width="682" alt="![Screenshot from 2023-10-24 00-18-25](https://github.com/Risimon/Fleet-management-System/assets/44129331/557142ba-1cec-4114-991a-38efa032b853)
-">
+<img src="https://github.com/Risimon/Fleet-management-System/assets/44129331/557142ba-1cec-4114-991a-38efa032b853">
 
 <img width="682" alt="![Screenshot from 2023-10-24 00-19-47](https://github.com/Risimon/Fleet-management-System/assets/44129331/373ef0c7-fc0b-43f5-8011-933a592c8370)
 ">
