@@ -30,6 +30,15 @@ git clone https://github.com/Risimon/Fleet-management-System.git
 
 ## Usage
 
+- Build Packages
+```bash
+cd ~/Fleet-management-System/ros2_ws # moving into workspace
+```
+```bash
+cd colcon build
+```
+
+```bash
 Open two terminals.
 
 - 1st Terminal
