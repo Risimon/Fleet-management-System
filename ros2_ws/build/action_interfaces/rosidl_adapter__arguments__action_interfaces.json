@@ -1,0 +1,6 @@
+{
+  "package_name": "action_interfaces",
+  "non_idl_tuples": [
+    "/home/zheka/Fleet-Management-System/ros2_ws/src/action_interfaces:action/FleetManagement.action"
+  ]
+}

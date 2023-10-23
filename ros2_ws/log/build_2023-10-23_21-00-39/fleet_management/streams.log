@@ -1,0 +1,24 @@
+[0.453s] Invoking command in '/home/zheka/Fleet-Management-System/ros2_ws/src/fleet_management': PYTHONPATH=/home/zheka/Fleet-Management-System/ros2_ws/build/fleet_management/prefix_override:/home/zheka/Fleet-Management-System/ros2_ws/install/fleet_management/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/fleet_management build --build-base /home/zheka/Fleet-Management-System/ros2_ws/build/fleet_management/build install --record /home/zheka/Fleet-Management-System/ros2_ws/build/fleet_management/install.log --single-version-externally-managed
+[0.623s] running egg_info
+[0.623s] writing ../../build/fleet_management/fleet_management.egg-info/PKG-INFO
+[0.624s] writing dependency_links to ../../build/fleet_management/fleet_management.egg-info/dependency_links.txt
+[0.624s] writing entry points to ../../build/fleet_management/fleet_management.egg-info/entry_points.txt
+[0.624s] writing requirements to ../../build/fleet_management/fleet_management.egg-info/requires.txt
+[0.625s] writing top-level names to ../../build/fleet_management/fleet_management.egg-info/top_level.txt
+[0.626s] reading manifest file '../../build/fleet_management/fleet_management.egg-info/SOURCES.txt'
+[0.627s] writing manifest file '../../build/fleet_management/fleet_management.egg-info/SOURCES.txt'
+[0.627s] running build
+[0.627s] running build_py
+[0.628s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.628s]   warnings.warn(
+[0.628s] running install
+[0.629s] running install_lib
+[0.629s] running install_data
+[0.630s] running install_egg_info
+[0.631s] removing '/home/zheka/Fleet-Management-System/ros2_ws/install/fleet_management/lib/python3.10/site-packages/fleet_management-0.0.0-py3.10.egg-info' (and everything under it)
+[0.631s] Copying ../../build/fleet_management/fleet_management.egg-info to /home/zheka/Fleet-Management-System/ros2_ws/install/fleet_management/lib/python3.10/site-packages/fleet_management-0.0.0-py3.10.egg-info
+[0.632s] running install_scripts
+[0.648s] Installing client script to /home/zheka/Fleet-Management-System/ros2_ws/install/fleet_management/lib/fleet_management
+[0.649s] Installing server script to /home/zheka/Fleet-Management-System/ros2_ws/install/fleet_management/lib/fleet_management
+[0.649s] writing list of installed files to '/home/zheka/Fleet-Management-System/ros2_ws/build/fleet_management/install.log'
+[0.668s] Invoked command in '/home/zheka/Fleet-Management-System/ros2_ws/src/fleet_management' returned '0': PYTHONPATH=/home/zheka/Fleet-Management-System/ros2_ws/build/fleet_management/prefix_override:/home/zheka/Fleet-Management-System/ros2_ws/install/fleet_management/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/fleet_management build --build-base /home/zheka/Fleet-Management-System/ros2_ws/build/fleet_management/build install --record /home/zheka/Fleet-Management-System/ros2_ws/build/fleet_management/install.log --single-version-externally-managed

@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from action_interfaces/action/FleetManagement.action
+// generated code does not contain a copyright notice
+
+
+module action_interfaces {
+  module action {
+    struct FleetManagement_Goal {
+      int32 fleet_size;
+    };
+    struct FleetManagement_Result {
+      sequence<string> vehicle_routes;
+    };
+    struct FleetManagement_Feedback {
+      float completion_percentage;
+    };
+  };
+};
