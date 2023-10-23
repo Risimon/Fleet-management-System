@@ -57,7 +57,7 @@ ros2 launch fleet_management client_launch --fleet-size 5 # launching client wit
 
 ## Demo
 
-<img width="682" alt="Screenshot from 2023-10-24 00-17-15" src="https://github.com/Risimon/Fleet-management-System/assets/44129331/3efaa0fe-0bcd-474b-96dc-0106c7db609b">
+<img alt="Screenshot from 2023-10-24 00-17-15" src="https://github.com/Risimon/Fleet-management-System/assets/44129331/3efaa0fe-0bcd-474b-96dc-0106c7db609b">
 
 <img width="682" alt="![Screenshot from 2023-10-24 00-17-47](https://github.com/Risimon/Fleet-management-System/assets/44129331/3efaa0fe-0bcd-474b-96dc-0106c7db609b)
 ">
